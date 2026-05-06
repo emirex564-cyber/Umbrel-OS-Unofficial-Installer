@@ -14,7 +14,7 @@ CYAN='\033[0;36m'
 BOLD='\033[1m'
 NC='\033[0m'
 
-UMBREL_VERSION="1.5.0"
+UMBREL_VERSION="1.4.0"
 UMBREL_IMAGE="ghcr.io/dockur/umbrel:${UMBREL_VERSION}"
 INSTALL_DIR="$HOME/umbrel-compose"
 VOLUME_IMG="$HOME/umbrel-volume.img"
